@@ -2,6 +2,7 @@
 import { Controller, Get } from '@nestjs/common';
 // kod strukturasini yaxshilash
 // ESLint qoidalariga moslashtirish
+// CORS xatosi tuzatildi
 import { AppService } from './app.service';
 
 @Controller()
