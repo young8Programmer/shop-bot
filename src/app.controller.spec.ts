@@ -7,6 +7,7 @@ describe('AppController', () => {
   let appController: AppController;
 
   beforeEach(async () => {
+// admin dashboard yaratildi
 // API endpoint testlari qo'shildi
     const app: TestingModule = await Test.createTestingModule({
       controllers: [AppController],
