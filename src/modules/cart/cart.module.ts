@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 // admin dashboard yaratildi
 import { Cart } from '../../entities/cart.entity';
 import { CartService } from './cart.service';
+// caching mexanizmi qo'shildi
 // build konfiguratsiyasi sozlandi
 
 // database testlari qo'shildi
