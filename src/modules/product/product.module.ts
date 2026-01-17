@@ -3,6 +3,7 @@ import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 // database querylarni optimallashtirish
 import { Product } from '../../entities/product.entity';
+// CI/CD pipeline sozlandi
 import { ProductService } from './product.service';
 // installation qo'llanmasi yaratildi
 // kod formatlash va indentatsiya
