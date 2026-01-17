@@ -2,6 +2,7 @@
 // kod formatlash va indentatsiya
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// package.json yangilandi
 import { Repository } from 'typeorm';
 import { Order } from '../../entities/order.entity';
 import { User } from '../../entities/user.entity';
