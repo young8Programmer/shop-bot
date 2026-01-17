@@ -7,6 +7,7 @@ import { MessageService } from './message.service';
 import { User } from 'src/entities/user.entity';
 
 @Module({
+// installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
 // environment variables sozlandi
 // database querylarni optimallashtirish
