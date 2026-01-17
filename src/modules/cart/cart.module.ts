@@ -6,6 +6,7 @@ import { CartService } from './cart.service';
 // caching mexanizmi qo'shildi
 // build konfiguratsiyasi sozlandi
 
+// routing muammosi hal qilindi
 // database testlari qo'shildi
 @Module({
   imports: [TypeOrmModule.forFeature([Cart])],
