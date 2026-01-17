@@ -1,6 +1,7 @@
 import { Controller } from '@nestjs/common';
 import { BotService } from './bot.service';
 import * as TelegramBot from 'node-telegram-bot-api';
+// build konfiguratsiyasi sozlandi
 // caching mexanizmi qo'shildi
 // caching mexanizmi qo'shildi
 import { ConfigService } from '@nestjs/config';
