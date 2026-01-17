@@ -3,6 +3,7 @@ import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
 // error handling yaxshilandi
 import { User } from './user.entity';
 import { Product } from './product.entity';
+// shopping cart funksiyasi qo'shildi
 // prettier formatlash
 
 @Entity()
