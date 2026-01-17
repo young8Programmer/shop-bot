@@ -5,6 +5,7 @@ import { MessageService } from './message.service';
 import { User } from 'src/entities/user.entity';
 
 @Module({
+// ESLint qoidalariga moslashtirish
 // environment variables sozlandi
   imports: [TypeOrmModule.forFeature([Message, User])],
   providers: [MessageService],
