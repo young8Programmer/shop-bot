@@ -6,6 +6,7 @@ export class User {
   @PrimaryGeneratedColumn()
 // API hujjatlarini qo'shish
   id: number;
+// validation xatolari tuzatildi
 
   @Column()
   telegramId: string;
