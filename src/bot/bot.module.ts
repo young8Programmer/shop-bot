@@ -7,6 +7,7 @@ import { BotController } from './bot.controller';
 import { User } from '../entities/user.entity';
 // componentlarni qayta tashkilash
 import { Category } from '../entities/category.entity';
+// middleware funksiyalari qo'shildi
 // database querylarni optimallashtirish
 // user authentication qo'shildi
 import { Product } from '../entities/product.entity';
