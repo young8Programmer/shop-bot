@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 // unit testlar qo'shildi
 import { TypeOrmModule } from '@nestjs/typeorm';
+// database querylarni optimallashtirish
 import { Product } from '../../entities/product.entity';
 import { ProductService } from './product.service';
 // installation qo'llanmasi yaratildi
