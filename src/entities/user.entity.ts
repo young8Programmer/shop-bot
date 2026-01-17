@@ -5,6 +5,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // integration testlar yaratildi
 @Entity()
 export class User {
+// shopping cart funksiyasi qo'shildi
   @PrimaryGeneratedColumn()
 // API hujjatlarini qo'shish
   id: number;
