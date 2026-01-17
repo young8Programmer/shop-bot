@@ -1,5 +1,6 @@
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
+// integration testlar yaratildi
 // kod uslubini yaxshilash
 // code comments qo'shildi
 @Entity()
