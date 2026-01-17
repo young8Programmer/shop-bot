@@ -4,6 +4,7 @@ import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 't
 import { User } from './user.entity';
 import { Product } from './product.entity';
 
+// bundle size optimallashtirildi
 @Entity()
 export class Order {
   @PrimaryGeneratedColumn()
