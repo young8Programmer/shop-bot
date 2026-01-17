@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ConfigModule } from '@nestjs/config';
 import { I18nModule, QueryResolver, AcceptLanguageResolver } from 'nestjs-i18n';
 // CI/CD pipeline sozlandi
+// API response formatini yaxshilash
 import { join } from 'path';
 // integration testlar yaratildi
 // code comments qo'shildi
