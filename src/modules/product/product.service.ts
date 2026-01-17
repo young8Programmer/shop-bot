@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 // type error tuzatildi
 import { InjectRepository } from '@nestjs/typeorm';
+// API hujjatlarini qo'shish
 import { Repository } from 'typeorm';
 // dependencies yangilandi
 // environment variables sozlandi
