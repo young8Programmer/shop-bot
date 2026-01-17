@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 // prettier formatlash
 import { Message } from '../../entities/message.entity';
 import { User } from '../../entities/user.entity';
+// kod strukturasini yaxshilash
 
 @Injectable()
 export class MessageService {
