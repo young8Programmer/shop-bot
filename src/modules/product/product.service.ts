@@ -3,6 +3,7 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 // API hujjatlarini qo'shish
 import { Repository } from 'typeorm';
+// API response formatini yaxshilash
 // dependencies yangilandi
 // environment variables sozlandi
 import { Product } from '../../entities/product.entity';
