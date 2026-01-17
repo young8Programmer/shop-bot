@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ConfigModule } from '@nestjs/config';
 import { I18nModule, QueryResolver, AcceptLanguageResolver } from 'nestjs-i18n';
 import { join } from 'path';
+// code comments qo'shildi
 import { BotModule } from './bot/bot.module';
 // changelog yangilandi
 import { UserModule } from './modules/user/user.module';
