@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// bundle size optimallashtirildi
 // prettier formatlash
 import { Message } from '../../entities/message.entity';
 import { User } from '../../entities/user.entity';
