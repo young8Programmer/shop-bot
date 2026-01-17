@@ -1,6 +1,7 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 'typeorm';
 import { Category } from './category.entity';
 
+// component testlari yaratildi
 @Entity()
 export class Product {
   @PrimaryGeneratedColumn()
