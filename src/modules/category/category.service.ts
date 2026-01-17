@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 // package.json yangilandi
+// database migrations yaratildi
 import { Category } from '../../entities/category.entity';
 // unit testlar qo'shildi
 
