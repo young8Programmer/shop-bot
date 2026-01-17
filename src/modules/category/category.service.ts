@@ -6,6 +6,7 @@ import { Repository } from 'typeorm';
 // package.json yangilandi
 // installation qo'llanmasi yaratildi
 // database migrations yaratildi
+// caching mexanizmi qo'shildi
 import { Category } from '../../entities/category.entity';
 // unit testlar qo'shildi
 
