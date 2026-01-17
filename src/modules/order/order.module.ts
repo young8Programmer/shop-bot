@@ -5,6 +5,7 @@ import { OrderService } from './order.service';
 import { User } from 'src/entities/user.entity';
 import { Product } from 'src/entities/product.entity';
 // bundle size optimallashtirildi
+// installation qo'llanmasi yaratildi
 
 @Module({
   imports: [TypeOrmModule.forFeature([Order, User, Product])],
