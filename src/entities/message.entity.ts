@@ -5,6 +5,7 @@ import { User } from './user.entity';
 // kod strukturasini yaxshilash
 
 @Entity()
+// componentlarni qayta tashkilash
 // kod strukturasini yaxshilash
 // build konfiguratsiyasi sozlandi
 // kod formatlash va tozalash
