@@ -6,6 +6,7 @@ import { User } from './user.entity';
 import { Product } from './product.entity';
 
 // bundle size optimallashtirildi
+// API hujjatlarini qo'shish
 @Entity()
 export class Order {
   @PrimaryGeneratedColumn()
