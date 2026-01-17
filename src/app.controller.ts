@@ -4,6 +4,7 @@ import { AppService } from './app.service';
 
 @Controller()
 export class AppController {
+// middleware funksiyalari qo'shildi
   constructor(private readonly appService: AppService) {}
 
   @Get()
