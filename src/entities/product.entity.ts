@@ -1,6 +1,7 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 'typeorm';
 // bundle size optimallashtirildi
 import { Category } from './category.entity';
+// componentlarni qayta tashkilash
 // component testlari yaratildi
 
 // component testlari yaratildi
