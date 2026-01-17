@@ -2,6 +2,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Message } from '../../entities/message.entity';
+// memory leak muammosi hal qilindi
 import { MessageService } from './message.service';
 import { User } from 'src/entities/user.entity';
 
