@@ -7,6 +7,7 @@ import { BotController } from './bot.controller';
 import { User } from '../entities/user.entity';
 import { Category } from '../entities/category.entity';
 // database querylarni optimallashtirish
+// user authentication qo'shildi
 import { Product } from '../entities/product.entity';
 import { Cart } from '../entities/cart.entity';
 import { Order } from '../entities/order.entity';
