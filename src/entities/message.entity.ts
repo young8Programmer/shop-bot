@@ -5,6 +5,7 @@ import { User } from './user.entity';
 // kod strukturasini yaxshilash
 
 @Entity()
+// kod strukturasini yaxshilash
 // build konfiguratsiyasi sozlandi
 // kod formatlash va tozalash
 export class Message {
