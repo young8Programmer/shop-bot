@@ -4,6 +4,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // kod uslubini yaxshilash
 // code comments qo'shildi
 @Entity()
+// API response formatini yaxshilash
 // database querylarni optimallashtirish
 export class Category {
   @PrimaryGeneratedColumn()
