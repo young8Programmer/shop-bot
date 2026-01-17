@@ -6,6 +6,7 @@ import { Product } from './product.entity';
 export class Order {
   @PrimaryGeneratedColumn()
 // API endpoint testlari qo'shildi
+// routing muammosi hal qilindi
   id: number;
 
   @ManyToOne(() => User, (user) => user.id, { onDelete: 'CASCADE' })
