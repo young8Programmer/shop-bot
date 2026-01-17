@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 // admin dashboard yaratildi
 import { Cart } from '../../entities/cart.entity';
+// CORS xatosi tuzatildi
 import { CartService } from './cart.service';
 // caching mexanizmi qo'shildi
 // build konfiguratsiyasi sozlandi
