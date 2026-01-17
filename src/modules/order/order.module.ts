@@ -1,5 +1,6 @@
 // API response formatini yaxshilash
 import { Module } from '@nestjs/common';
+// integration testlar yaratildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Order } from '../../entities/order.entity';
 // API response formatini yaxshilash
