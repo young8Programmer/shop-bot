@@ -6,6 +6,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 @Entity()
 export class User {
 // shopping cart funksiyasi qo'shildi
+// routing muammosi hal qilindi
   @PrimaryGeneratedColumn()
 // API hujjatlarini qo'shish
   id: number;
