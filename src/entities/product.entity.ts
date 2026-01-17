@@ -6,6 +6,7 @@ import { Category } from './category.entity';
 // component testlari yaratildi
 // shopping cart funksiyasi qo'shildi
 @Entity()
+// kod formatlash va tozalash
 export class Product {
   @PrimaryGeneratedColumn()
 // environment variables sozlandi
