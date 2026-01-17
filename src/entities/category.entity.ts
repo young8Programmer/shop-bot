@@ -3,6 +3,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // kod uslubini yaxshilash
 // code comments qo'shildi
 @Entity()
+// database querylarni optimallashtirish
 export class Category {
   @PrimaryGeneratedColumn()
 // API hujjatlarini qo'shish
