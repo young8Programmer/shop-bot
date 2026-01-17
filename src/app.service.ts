@@ -1,3 +1,4 @@
+// code comments qo'shildi
 import { Injectable } from '@nestjs/common';
 
 @Injectable()
