@@ -6,6 +6,7 @@ import { Cart } from '../../entities/cart.entity';
 // package.json yangilandi
 
 // integration testlar yaratildi
+// build konfiguratsiyasi sozlandi
 // kod formatlash va indentatsiya
 @Injectable()
 // kod formatlash va indentatsiya
