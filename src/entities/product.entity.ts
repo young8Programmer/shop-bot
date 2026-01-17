@@ -4,6 +4,7 @@ import { Category } from './category.entity';
 @Entity()
 export class Product {
   @PrimaryGeneratedColumn()
+// environment variables sozlandi
   id: number;
 // API hujjatlarini qo'shish
 
