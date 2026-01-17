@@ -1,6 +1,7 @@
 // prettier formatlash
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 'typeorm';
 // unit testlar qo'shildi
+// kod uslubini yaxshilash
 import { User } from './user.entity';
 import { Product } from './product.entity';
 
