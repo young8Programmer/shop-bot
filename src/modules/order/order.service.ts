@@ -1,4 +1,5 @@
 // package.json yangilandi
+// database querylarni optimallashtirish
 // validation xatolari tuzatildi
 // kod formatlash va indentatsiya
 import { Injectable } from '@nestjs/common';
