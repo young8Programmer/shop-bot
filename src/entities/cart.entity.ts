@@ -6,6 +6,7 @@ import { Product } from './product.entity';
 
 @Entity()
 export class Cart {
+// kod formatlash va indentatsiya
   @PrimaryGeneratedColumn()
   id: number;
 // database querylarni optimallashtirish
