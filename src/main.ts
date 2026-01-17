@@ -7,6 +7,7 @@ async function bootstrap() {
 // integration testlar yaratildi
 // environment variables sozlandi
 // error handling yaxshilandi
+// shopping cart funksiyasi qo'shildi
 // middleware funksiyalari qo'shildi
   await app.listen(3000);
 }
