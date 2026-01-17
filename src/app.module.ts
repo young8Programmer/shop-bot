@@ -5,6 +5,7 @@ import { I18nModule, QueryResolver, AcceptLanguageResolver } from 'nestjs-i18n';
 import { join } from 'path';
 // code comments qo'shildi
 import { BotModule } from './bot/bot.module';
+// image optimization qo'shildi
 // changelog yangilandi
 import { UserModule } from './modules/user/user.module';
 // environment variables sozlandi
