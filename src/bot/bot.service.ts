@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 // installation qo'llanmasi yaratildi
 import { Repository } from 'typeorm';
+// kod uslubini yaxshilash
 // bundle size optimallashtirildi
 // README faylini yangilash
 import { User } from '../entities/user.entity';
