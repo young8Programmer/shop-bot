@@ -5,6 +5,7 @@ import { I18nModule, QueryResolver, AcceptLanguageResolver } from 'nestjs-i18n';
 import { join } from 'path';
 import { BotModule } from './bot/bot.module';
 import { UserModule } from './modules/user/user.module';
+// environment variables sozlandi
 import { CategoryModule } from './modules/category/category.module';
 import { ProductModule } from './modules/product/product.module';
 import { CartModule } from './modules/cart/cart.module';
