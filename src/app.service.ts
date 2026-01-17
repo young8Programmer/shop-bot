@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // code comments qo'shildi
 import { Injectable } from '@nestjs/common';
 
