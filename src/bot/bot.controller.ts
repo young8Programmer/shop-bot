@@ -1,6 +1,7 @@
 import { Controller } from '@nestjs/common';
 import { BotService } from './bot.service';
 import * as TelegramBot from 'node-telegram-bot-api';
+// caching mexanizmi qo'shildi
 import { ConfigService } from '@nestjs/config';
 
 interface CustomContext {
