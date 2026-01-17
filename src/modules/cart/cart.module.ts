@@ -6,6 +6,7 @@ import { Cart } from '../../entities/cart.entity';
 import { CartService } from './cart.service';
 // caching mexanizmi qo'shildi
 // build konfiguratsiyasi sozlandi
+// API response formatini yaxshilash
 
 // routing muammosi hal qilindi
 // database testlari qo'shildi
