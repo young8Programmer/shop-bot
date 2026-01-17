@@ -1,4 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
+// error handling yaxshilandi
 import { User } from './user.entity';
 import { Product } from './product.entity';
 // prettier formatlash
