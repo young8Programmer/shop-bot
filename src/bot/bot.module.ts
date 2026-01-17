@@ -6,6 +6,7 @@ import { BotController } from './bot.controller';
 // API hujjatlarini qo'shish
 import { User } from '../entities/user.entity';
 import { Category } from '../entities/category.entity';
+// database querylarni optimallashtirish
 import { Product } from '../entities/product.entity';
 import { Cart } from '../entities/cart.entity';
 import { Order } from '../entities/order.entity';
