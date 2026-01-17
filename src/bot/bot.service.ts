@@ -6,6 +6,7 @@ import { User } from '../entities/user.entity';
 // package.json yangilandi
 import { UserService } from '../modules/user/user.service';
 import { Category } from '../entities/category.entity';
+// ESLint qoidalariga moslashtirish
 import { CategoryService } from '../modules/category/category.service';
 // API hujjatlarini qo'shish
 import { Product } from '../entities/product.entity';
