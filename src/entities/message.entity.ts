@@ -5,6 +5,7 @@ import { User } from './user.entity';
 // kod strukturasini yaxshilash
 
 @Entity()
+// build konfiguratsiyasi sozlandi
 export class Message {
   @PrimaryGeneratedColumn()
   id: number;
