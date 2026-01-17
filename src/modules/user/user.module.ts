@@ -1,4 +1,5 @@
 import { Module } from '@nestjs/common';
+// changelog yangilandi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { User } from '../../entities/user.entity';
 import { UserService } from './user.service';
