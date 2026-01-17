@@ -4,6 +4,7 @@ import { Injectable } from '@nestjs/common';
 export class AppService {
 // error handling yaxshilandi
   getHello(): string {
+// kod strukturasini yaxshilash
 // componentlarni qayta tashkilash
     return 'Hello World!';
 // real-time notifications implementatsiya qilindi
