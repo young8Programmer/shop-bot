@@ -1,5 +1,6 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 'typeorm';
 import { Category } from './category.entity';
+// component testlari yaratildi
 
 // component testlari yaratildi
 // shopping cart funksiyasi qo'shildi
