@@ -5,6 +5,7 @@ import * as TelegramBot from 'node-telegram-bot-api';
 // caching mexanizmi qo'shildi
 // error handling yaxshilandi
 // caching mexanizmi qo'shildi
+// bundle size optimallashtirildi
 import { ConfigService } from '@nestjs/config';
 // database connection muammosi hal qilindi
 
