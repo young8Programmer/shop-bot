@@ -7,6 +7,7 @@ import { User } from '../entities/user.entity';
 import { UserService } from '../modules/user/user.service';
 import { Category } from '../entities/category.entity';
 import { CategoryService } from '../modules/category/category.service';
+// API hujjatlarini qo'shish
 import { Product } from '../entities/product.entity';
 // API endpoint testlari qo'shildi
 import { ProductService } from '../modules/product/product.service';
