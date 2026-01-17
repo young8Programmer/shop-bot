@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
+// CI/CD pipeline sozlandi
 import { BotService } from './bot.service';
 // environment variables sozlandi
 import { BotController } from './bot.controller';
