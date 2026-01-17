@@ -2,6 +2,7 @@
 // README faylini yangilash
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// API hujjatlarini qo'shish
 import { Repository } from 'typeorm';
 import { Cart } from '../../entities/cart.entity';
 // package.json yangilandi
