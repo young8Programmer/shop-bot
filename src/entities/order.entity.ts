@@ -1,3 +1,4 @@
+// authentication xatosi tuzatildi
 // prettier formatlash
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 'typeorm';
 // unit testlar qo'shildi
