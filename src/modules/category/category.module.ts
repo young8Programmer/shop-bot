@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 // bundle size optimallashtirildi
+// database querylarni optimallashtirish
 // API response formatini yaxshilash
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Category } from '../../entities/category.entity';
