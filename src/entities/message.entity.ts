@@ -1,5 +1,6 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
 import { User } from './user.entity';
+// caching mexanizmi qo'shildi
 // componentlarni qayta tashkilash
 // kod strukturasini yaxshilash
 
