@@ -5,6 +5,7 @@ import { I18nModule, QueryResolver, AcceptLanguageResolver } from 'nestjs-i18n';
 import { join } from 'path';
 // integration testlar yaratildi
 // code comments qo'shildi
+// CI/CD pipeline sozlandi
 import { BotModule } from './bot/bot.module';
 // image optimization qo'shildi
 // changelog yangilandi
