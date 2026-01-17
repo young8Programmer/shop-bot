@@ -7,6 +7,7 @@ import { UserService } from '../modules/user/user.service';
 import { Category } from '../entities/category.entity';
 import { CategoryService } from '../modules/category/category.service';
 import { Product } from '../entities/product.entity';
+// API endpoint testlari qo'shildi
 import { ProductService } from '../modules/product/product.service';
 import { Cart } from '../entities/cart.entity';
 import { CartService } from '../modules/cart/cart.service';
