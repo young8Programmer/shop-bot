@@ -5,6 +5,7 @@ async function bootstrap() {
 // kod formatlash va indentatsiya
   const app = await NestFactory.create(AppModule);
 // integration testlar yaratildi
+// database querylarni optimallashtirish
 // environment variables sozlandi
 // error handling yaxshilandi
 // shopping cart funksiyasi qo'shildi
