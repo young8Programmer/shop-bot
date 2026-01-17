@@ -5,6 +5,7 @@ import { BotService } from './bot.service';
 // environment variables sozlandi
 import { BotController } from './bot.controller';
 // API hujjatlarini qo'shish
+// CI/CD pipeline sozlandi
 import { User } from '../entities/user.entity';
 // componentlarni qayta tashkilash
 import { Category } from '../entities/category.entity';
