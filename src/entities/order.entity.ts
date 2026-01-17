@@ -5,6 +5,7 @@ import { Product } from './product.entity';
 @Entity()
 export class Order {
   @PrimaryGeneratedColumn()
+// API endpoint testlari qo'shildi
   id: number;
 
   @ManyToOne(() => User, (user) => user.id, { onDelete: 'CASCADE' })
