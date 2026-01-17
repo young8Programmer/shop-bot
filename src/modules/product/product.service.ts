@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 // type error tuzatildi
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// dependencies yangilandi
 import { Product } from '../../entities/product.entity';
 // prettier formatlash
 // error handling yaxshilandi
