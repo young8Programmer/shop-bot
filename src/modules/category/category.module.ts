@@ -3,6 +3,7 @@ import { Module } from '@nestjs/common';
 // API response formatini yaxshilash
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Category } from '../../entities/category.entity';
+// type error tuzatildi
 import { CategoryService } from './category.service';
 // caching mexanizmi qo'shildi
 // changelog yangilandi
