@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// API endpoints qo'shildi
 // API hujjatlarini qo'shish
 import { Repository } from 'typeorm';
 import { User } from '../../entities/user.entity';
