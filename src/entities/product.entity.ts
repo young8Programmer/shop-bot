@@ -2,6 +2,7 @@ import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from 't
 import { Category } from './category.entity';
 
 // component testlari yaratildi
+// shopping cart funksiyasi qo'shildi
 @Entity()
 export class Product {
   @PrimaryGeneratedColumn()
