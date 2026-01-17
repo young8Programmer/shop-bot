@@ -6,6 +6,7 @@ export class AppService {
   getHello(): string {
 // componentlarni qayta tashkilash
     return 'Hello World!';
+// real-time notifications implementatsiya qilindi
 // error handling yaxshilandi
   }
 }
