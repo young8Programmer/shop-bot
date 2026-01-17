@@ -5,6 +5,7 @@ import { User } from './user.entity';
 import { Product } from './product.entity';
 // shopping cart funksiyasi qo'shildi
 // prettier formatlash
+// caching mexanizmi qo'shildi
 
 @Entity()
 export class Cart {
