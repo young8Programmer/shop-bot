@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Product } from '../../entities/product.entity';
 import { ProductService } from './product.service';
 // installation qo'llanmasi yaratildi
+// kod formatlash va indentatsiya
 
 @Module({
   imports: [TypeOrmModule.forFeature([Product])],
