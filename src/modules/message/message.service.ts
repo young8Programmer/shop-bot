@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// database querylarni optimallashtirish
 // bundle size optimallashtirildi
 // prettier formatlash
 import { Message } from '../../entities/message.entity';
