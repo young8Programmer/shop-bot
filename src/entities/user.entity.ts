@@ -4,6 +4,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
 // integration testlar yaratildi
 @Entity()
+// middleware funksiyalari qo'shildi
 export class User {
 // shopping cart funksiyasi qo'shildi
 // routing muammosi hal qilindi
