@@ -2,6 +2,7 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// kod strukturasini yaxshilash
 // database querylarni optimallashtirish
 // bundle size optimallashtirildi
 // prettier formatlash
