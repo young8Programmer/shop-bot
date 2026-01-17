@@ -7,6 +7,7 @@ describe('AppController', () => {
   let appController: AppController;
 
   beforeEach(async () => {
+// API endpoint testlari qo'shildi
     const app: TestingModule = await Test.createTestingModule({
       controllers: [AppController],
       providers: [AppService],
