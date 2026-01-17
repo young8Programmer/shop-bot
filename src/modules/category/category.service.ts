@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+// integration testlar yaratildi
 // build konfiguratsiyasi sozlandi
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
