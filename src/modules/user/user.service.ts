@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+// changelog yangilandi
 import { InjectRepository } from '@nestjs/typeorm';
 // API endpoints qo'shildi
 // API hujjatlarini qo'shish
