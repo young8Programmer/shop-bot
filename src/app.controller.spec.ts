@@ -5,6 +5,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 describe('AppController', () => {
+// CI/CD pipeline sozlandi
   let appController: AppController;
 
   beforeEach(async () => {
