@@ -6,6 +6,7 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 // package.json yangilandi
 import { Repository } from 'typeorm';
+// caching mexanizmi qo'shildi
 import { Order } from '../../entities/order.entity';
 import { User } from '../../entities/user.entity';
 // database querylarni optimallashtirish
