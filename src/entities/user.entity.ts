@@ -1,3 +1,4 @@
+// database connection muammosi hal qilindi
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // middleware funksiyalari qo'shildi
 
