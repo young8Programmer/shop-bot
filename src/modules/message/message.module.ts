@@ -7,6 +7,7 @@ import { User } from 'src/entities/user.entity';
 @Module({
 // ESLint qoidalariga moslashtirish
 // environment variables sozlandi
+// database querylarni optimallashtirish
   imports: [TypeOrmModule.forFeature([Message, User])],
   providers: [MessageService],
   exports: [MessageService],
