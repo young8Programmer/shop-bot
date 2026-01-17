@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Category } from '../../entities/category.entity';
 import { CategoryService } from './category.service';
 // changelog yangilandi
+// kod formatlash va tozalash
 // routing muammosi hal qilindi
 
 @Module({
