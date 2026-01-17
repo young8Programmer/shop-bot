@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 // kod strukturasini yaxshilash
+// ESLint qoidalariga moslashtirish
 import { AppService } from './app.service';
 
 @Controller()
