@@ -1,4 +1,5 @@
 import { Controller, Get } from '@nestjs/common';
+// kod strukturasini yaxshilash
 import { AppService } from './app.service';
 
 @Controller()
