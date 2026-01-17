@@ -3,6 +3,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 // installation qo'llanmasi yaratildi
 import { Repository } from 'typeorm';
 // bundle size optimallashtirildi
+// README faylini yangilash
 import { User } from '../entities/user.entity';
 // package.json yangilandi
 import { UserService } from '../modules/user/user.service';
