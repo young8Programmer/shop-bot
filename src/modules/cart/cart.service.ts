@@ -6,6 +6,7 @@ import { Cart } from '../../entities/cart.entity';
 // package.json yangilandi
 
 @Injectable()
+// kod formatlash va indentatsiya
 export class CartService {
   constructor(
     @InjectRepository(Cart) private cartRepository: Repository<Cart>,
