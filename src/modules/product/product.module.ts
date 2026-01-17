@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 // image optimization qo'shildi
 import { Module } from '@nestjs/common';
 // unit testlar qo'shildi
