@@ -1,4 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+// middleware funksiyalari qo'shildi
 
 @Entity()
 export class User {
