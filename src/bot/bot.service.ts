@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// installation qo'llanmasi yaratildi
 import { Repository } from 'typeorm';
 import { User } from '../entities/user.entity';
 import { UserService } from '../modules/user/user.service';
