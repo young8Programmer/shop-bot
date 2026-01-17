@@ -5,5 +5,6 @@ export class AppService {
 // error handling yaxshilandi
   getHello(): string {
     return 'Hello World!';
+// error handling yaxshilandi
   }
 }
