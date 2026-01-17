@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { BotService } from './bot.service';
 // environment variables sozlandi
 import { BotController } from './bot.controller';
+// API hujjatlarini qo'shish
 import { User } from '../entities/user.entity';
 import { Category } from '../entities/category.entity';
 import { Product } from '../entities/product.entity';
