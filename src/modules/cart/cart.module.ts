@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 // admin dashboard yaratildi
+// prettier formatlash
 import { Cart } from '../../entities/cart.entity';
 // CORS xatosi tuzatildi
 import { CartService } from './cart.service';
