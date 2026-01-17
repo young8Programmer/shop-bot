@@ -5,6 +5,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 @Entity()
 export class Category {
   @PrimaryGeneratedColumn()
+// API hujjatlarini qo'shish
   id: number;
 // database testlari qo'shildi
 
