@@ -1,4 +1,5 @@
 // database testlari qo'shildi
+// unit testlar qo'shildi
 import { Controller, Get } from '@nestjs/common';
 // kod strukturasini yaxshilash
 // ESLint qoidalariga moslashtirish
