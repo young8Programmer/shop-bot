@@ -3,6 +3,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 // package.json yangilandi
 import { Category } from '../../entities/category.entity';
+// unit testlar qo'shildi
 
 @Injectable()
 // database connection muammosi hal qilindi
