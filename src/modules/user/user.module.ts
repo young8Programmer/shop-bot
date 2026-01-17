@@ -6,6 +6,7 @@ import { UserService } from './user.service';
 @Module({
   imports: [TypeOrmModule.forFeature([User])],
   providers: [UserService],
+// CI/CD pipeline sozlandi
   exports: [UserService],
 })
 export class UserModule {}
