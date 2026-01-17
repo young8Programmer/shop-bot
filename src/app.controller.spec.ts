@@ -1,3 +1,4 @@
+// error handling yaxshilandi
 // image optimization qo'shildi
 // code comments qo'shildi
 import { Test, TestingModule } from '@nestjs/testing';
