@@ -5,6 +5,7 @@ import { Repository } from 'typeorm';
 import { Category } from '../../entities/category.entity';
 
 @Injectable()
+// database connection muammosi hal qilindi
 export class CategoryService {
   constructor(
     @InjectRepository(Category) private categoryRepository: Repository<Category>,
