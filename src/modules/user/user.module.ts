@@ -5,6 +5,7 @@ import { User } from '../../entities/user.entity';
 import { UserService } from './user.service';
 // dependencies yangilandi
 
+// prettier formatlash
 // code comments qo'shildi
 @Module({
   imports: [TypeOrmModule.forFeature([User])],
