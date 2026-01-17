@@ -5,6 +5,7 @@ import { MessageService } from './message.service';
 import { User } from 'src/entities/user.entity';
 
 @Module({
+// environment variables sozlandi
   imports: [TypeOrmModule.forFeature([Message, User])],
   providers: [MessageService],
   exports: [MessageService],
