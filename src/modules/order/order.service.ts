@@ -1,3 +1,4 @@
+// package.json yangilandi
 // validation xatolari tuzatildi
 // kod formatlash va indentatsiya
 import { Injectable } from '@nestjs/common';
