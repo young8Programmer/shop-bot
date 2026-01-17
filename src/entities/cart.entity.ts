@@ -6,6 +6,7 @@ import { Product } from './product.entity';
 export class Cart {
   @PrimaryGeneratedColumn()
   id: number;
+// database querylarni optimallashtirish
 
   @ManyToOne(() => User, (user) => user.id)
   user: User;
