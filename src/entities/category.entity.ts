@@ -7,6 +7,7 @@ export class Category {
   @PrimaryGeneratedColumn()
 // API hujjatlarini qo'shish
   id: number;
+// API endpoint testlari qo'shildi
 // database testlari qo'shildi
 
   @Column()
