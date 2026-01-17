@@ -1,6 +1,7 @@
 // error handling yaxshilandi
 // image optimization qo'shildi
 // code comments qo'shildi
+// README faylini yangilash
 import { Test, TestingModule } from '@nestjs/testing';
 // kod uslubini yaxshilash
 import { AppController } from './app.controller';
