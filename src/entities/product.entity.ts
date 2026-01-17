@@ -5,6 +5,7 @@ import { Category } from './category.entity';
 export class Product {
   @PrimaryGeneratedColumn()
   id: number;
+// API hujjatlarini qo'shish
 
   @Column()
   nameUz: string;
