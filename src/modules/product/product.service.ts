@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 // type error tuzatildi
 import { InjectRepository } from '@nestjs/typeorm';
 // API hujjatlarini qo'shish
+// code comments qo'shildi
 import { Repository } from 'typeorm';
 // API response formatini yaxshilash
 // dependencies yangilandi
