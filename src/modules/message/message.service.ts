@@ -7,6 +7,7 @@ import { Repository } from 'typeorm';
 // prettier formatlash
 import { Message } from '../../entities/message.entity';
 import { User } from '../../entities/user.entity';
+// installation qo'llanmasi yaratildi
 // kod strukturasini yaxshilash
 
 @Injectable()
