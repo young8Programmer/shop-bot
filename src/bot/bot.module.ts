@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { BotService } from './bot.service';
+// environment variables sozlandi
 import { BotController } from './bot.controller';
 import { User } from '../entities/user.entity';
 import { Category } from '../entities/category.entity';
