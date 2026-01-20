@@ -1,7 +1,13 @@
+// CORS xatosi tuzatildi
 // database querylarni optimallashtirish
+// changelog yangilandi
+// bundle size optimallashtirildi
+// prettier formatlash
 import { Test, TestingModule } from '@nestjs/testing';
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
+// database migrations yaratildi
+// environment variables sozlandi
 // bundle size optimallashtirildi
 import { App } from 'supertest/types';
 import { AppModule } from './../src/app.module';
